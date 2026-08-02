@@ -1,0 +1,78 @@
+{
+  "brand": {
+    "shortName": "Raisedbedreport",
+    "fullName": "Raisedbedreport",
+    "taglineShort": "Raisedbedreport \u2014 straight answers, real picks.",
+    "identity": {
+      "palette": {
+        "primary": "#1E3A8A",
+        "accent": "#F59E0B",
+        "cream": "#FAF7F2",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Inter",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "",
+        "svgPublicPath": "",
+        "sizeRem": 1.5,
+        "position": "none"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "OUTDOOR / GARDEN",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "investigative"
+  },
+  "editorial": {
+    "authorSlug": "_default",
+    "author_slug": "_default",
+    "methodology": [
+      "We buy or borrow every product at retail \u2014 no manufacturer samples without disclosure.",
+      "Each pick is evaluated against a published rubric for Outdoor / Garden.",
+      "Pricing is re-checked weekly; stale links are removed within 7 days.",
+      "We disclose every affiliate relationship in plain English at the top of the relevant article.",
+      "Reader corrections are answered within 72 hours and folded into the article when valid."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The Raisedbedreport weekly",
+    "subtitle": "Practical picks and straight answers from Raisedbedreport, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@raisedbedreport.org",
+  "defaultAuthorSlug": "chen-wang-raisedbedreport",
+  "defaultMetaDescription": "Editorial coverage of Outdoor / Garden for Raised-bed gardening \u2014 kits, soil, irrigation, season extension.. We test, we disclose, we link.",
+  "homepage": {
+    "eyebrow": "Outdoor / garden",
+    "h1": "Raisedbedreport \u2014 picks worth your money",
+    "subhead": "Editorial coverage of Outdoor / Garden for Raised-bed gardening \u2014 kits, soil, irrigation, season extension.. We test, we disclose, we link.",
+    "ctaPrimaryLabel": "Read latest",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "How we research",
+    "ctaSecondaryHref": "/how-we-test",
+    "trustLine": "No pay-to-play. Affiliate revenue only on items we would buy ourselves.",
+    "heroImageUrl": "/images/hero/home.jpg"
+  },
+  "about": {
+    "headline": "Why Raisedbedreport exists",
+    "body": "Raisedbedreport was built to give Raised-bed gardening \u2014 kits, soil, irrigation, season extension. an honest, repeatable way to evaluate Outdoor / Garden. We disclose our methodology, sources, and conflicts up front."
+  },
+  "analytics": {
+    "ga_measurement_id": "G-0SWZFLBJ5V",
+    "ga_property_id": "539697534",
+    "search_console_property": "https://raisedbedreport.org/"
+  }
+}

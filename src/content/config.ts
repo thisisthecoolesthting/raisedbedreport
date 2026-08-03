@@ -83,6 +83,7 @@ const articles = defineCollection({
     tags: z.array(z.string()).optional().default([]),
     author: z.string().optional().default('chen-wang-raisedbedreport'),
     reviewedAt: z.coerce.date().optional(),
+    faqs: z.array(z.object({ question: z.string(), answer: z.string() })).optional().default([]),
   }),
 });
 

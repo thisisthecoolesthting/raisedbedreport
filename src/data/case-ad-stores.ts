@@ -143,3 +143,6 @@ export const caseAdStores = [
 ] as const;
 
 export default caseAdStores;
+
+// Compat alias -- some consumers import the old ALL_CAPS name.
+export const CASE_AD_STORES = caseAdStores;

@@ -11,7 +11,7 @@ bsr: 5664
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/71gz2gX+p5L.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GT74GL4V?tag=raisedbedreport-20"
+affiliateUrl: ""
 isPrime: false
 status: published
 firstSeen: "2026-08-03"
